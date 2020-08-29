@@ -1,3 +1,3 @@
-public Helloworld () {
+public class Helloworld () {
 
 }
